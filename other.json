@@ -13,5 +13,10 @@
     "user_name": "test_user2",
     "password": "test123",
     "expiry_date": "2025-05-16 22:14:47"
+  },
+  {
+    "user_name": "test_user3",
+    "password": "test123",
+    "expiry_date": "2025-06-10 02:14:47"
   }
 ]
