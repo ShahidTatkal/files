@@ -1,19 +1,12 @@
-{
-  "users": [
-    {
-      "username": "demo1",
-      "password": "123456",
-      "expiry_date": "2025-04-30"
-    },
-    {
-      "username": "user2",
-      "password": "pass789",
-      "expiry_date": "2025-05-15"
-    },
-    {
-      "username": "testuser",
-      "password": "testpass",
-      "expiry_date": "2025-06-01"
-    }
-  ]
-}
+[
+  {
+    "user_name": "john_doe",
+    "password": "pass123",
+    "expiry_date": "2025-04-29T18:30:00.000Z"
+  },
+  {
+    "user_name": "test_user",
+    "password": "test123",
+    "expiry_date": "2025-05-31T18:30:00.000Z"
+  }
+]
