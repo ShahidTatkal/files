@@ -1,1 +1,19 @@
-hhhhj
+{
+  "users": [
+    {
+      "username": "demo1",
+      "password": "123456",
+      "expiry_date": "2025-04-30"
+    },
+    {
+      "username": "user2",
+      "password": "pass789",
+      "expiry_date": "2025-05-15"
+    },
+    {
+      "username": "testuser",
+      "password": "testpass",
+      "expiry_date": "2025-06-01"
+    }
+  ]
+}
