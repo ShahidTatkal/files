@@ -1,10 +1,5 @@
 [
   {
-    "user_name": "demo",
-    "password": "demo",
-    "expiry_date": "2025-04-09T18:30:00.000Z"
-  },
-  {
     "user_name": "Admin",
     "password": "8584ad",
     "expiry_date": "2025-12-31T18:30:00.000Z"
