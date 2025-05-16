@@ -2,12 +2,12 @@
   {
     "user_name": "Rajan1974",
     "password": "Humtum768",
-    "expiry_date": "2026-06-12 00:00:00"
+    "expiry_date": "2025-06-12 00:00:00"
   },
   {
     "user_name": "Sunil6062",
     "password": "pppp12369",
-    "expiry_date": "2026-06-10 00:00:00"
+    "expiry_date": "2025-06-10 00:00:00"
   },
   {
     "user_name": "Rahim9872",
@@ -22,7 +22,7 @@
   {
     "user_name": "cs2026",
     "password": "cs2026",
-    "expiry_date": "2026-06-05 00:00:00"
+    "expiry_date": "2025-06-05 00:00:00"
   },
   {
     "user_name": "Shahid6870",
@@ -46,7 +46,7 @@
   },
   {
     "user_name": "demo",
-    "password": "demo",
+    "password": "cs2026",
     "expiry_date": "2026-06-05 00:00:00"
   }
 ]
